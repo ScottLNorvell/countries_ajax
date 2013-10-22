@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  abbreviation: MyString
+  north_america: false
+
+two:
+  name: MyString
+  abbreviation: MyString
+  north_america: false
